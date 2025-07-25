@@ -1,1 +1,1 @@
-# MY_Second_repository
+# Event Management Project
